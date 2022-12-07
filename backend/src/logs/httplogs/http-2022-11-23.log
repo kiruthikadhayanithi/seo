@@ -1,0 +1,8 @@
+2022-11-23T08:26:42.225Z HTTP: Performance: '200 - GET /api/v1/asm/folders - 5241.968 ms
+2022-11-23T08:33:54.459Z HTTP: Performance: '200 - GET /api/v1/banner?today=true - 1199.556 ms
+2022-11-23T08:34:03.521Z HTTP: Performance: '304 - GET /api/v1/asm/folders - 5693.798 ms
+2022-11-23T10:37:02.370Z HTTP: Performance: '304 - GET /api/v1/champion - 1010.187 ms
+2022-11-23T10:37:02.596Z HTTP: Performance: '304 - GET /api/v1/banner?today=true - 1227.593 ms
+2022-11-23T10:37:17.880Z HTTP: Performance: '304 - GET /api/v1/asm/folders - 4570.194 ms
+2022-11-23T12:08:54.832Z HTTP: Performance: '304 - GET /api/v1/champion - 1344.638 ms
+2022-11-23T12:08:55.040Z HTTP: Performance: '304 - GET /api/v1/banner?today=true - 1541.726 ms

@@ -1,0 +1,158 @@
+2022-11-25T04:51:26.612Z INFO: DB Connection Error
+2022-11-25T04:52:14.273Z INFO: DB Connection Error
+2022-11-25T04:55:29.208Z INFO: DB Connection Error
+2022-11-25T05:01:41.861Z INFO: DB Connection Successful
+2022-11-25T05:01:41.864Z INFO: Listening to port 8080
+2022-11-25T05:02:33.825Z INFO: DB Connection Successful
+2022-11-25T05:02:33.829Z INFO: Listening to port 8080
+2022-11-25T05:08:29.895Z INFO: DB Connection Error
+2022-11-25T05:16:03.462Z INFO: DB Connection Error
+2022-11-25T05:16:17.812Z INFO: DB Connection Successful
+2022-11-25T05:16:17.815Z INFO: Listening to port 8080
+2022-11-25T05:17:02.843Z INFO: DB Connection Successful
+2022-11-25T05:17:02.845Z INFO: Listening to port 8080
+2022-11-25T05:17:37.031Z INFO: DB Connection Successful
+2022-11-25T05:17:37.034Z INFO: Listening to port 8080
+2022-11-25T05:17:44.684Z INFO: DB Connection Successful
+2022-11-25T05:17:44.687Z INFO: Listening to port 8080
+2022-11-25T05:19:22.486Z INFO: DB Connection Successful
+2022-11-25T05:19:22.489Z INFO: Listening to port 8080
+2022-11-25T05:20:50.249Z INFO: DB Connection Successful
+2022-11-25T05:20:50.252Z INFO: Listening to port 8080
+2022-11-25T05:24:23.625Z INFO: DB Connection Successful
+2022-11-25T05:24:23.628Z INFO: Listening to port 8080
+2022-11-25T05:31:25.506Z INFO: DB Connection Successful
+2022-11-25T05:31:25.509Z INFO: Listening to port 8080
+2022-11-25T05:32:44.775Z INFO: DB Connection Successful
+2022-11-25T05:32:44.778Z INFO: Listening to port 8080
+2022-11-25T05:36:50.311Z INFO: DB Connection Successful
+2022-11-25T05:36:50.315Z INFO: Listening to port 8080
+2022-11-25T05:39:52.519Z INFO: DB Connection Successful
+2022-11-25T05:39:52.522Z INFO: Listening to port 8080
+2022-11-25T05:41:21.838Z INFO: DB Connection Successful
+2022-11-25T05:41:21.841Z INFO: Listening to port 8080
+2022-11-25T06:13:49.023Z INFO: DB Connection Successful
+2022-11-25T06:13:49.029Z INFO: Listening to port 8080
+2022-11-25T06:14:10.898Z INFO: DB Connection Successful
+2022-11-25T06:14:10.902Z INFO: Listening to port 8080
+2022-11-25T06:15:17.364Z INFO: DB Connection Successful
+2022-11-25T06:15:17.367Z INFO: Listening to port 8080
+2022-11-25T06:25:31.765Z INFO: DB Connection Successful
+2022-11-25T06:25:31.768Z INFO: Listening to port 8080
+2022-11-25T07:00:32.992Z INFO: DB Connection Successful
+2022-11-25T07:00:32.995Z INFO: Listening to port 8080
+2022-11-25T07:22:25.850Z INFO: DB Connection Successful
+2022-11-25T07:22:25.853Z INFO: Listening to port 8080
+2022-11-25T07:26:22.980Z INFO: DB Connection Successful
+2022-11-25T07:26:22.984Z INFO: Listening to port 8080
+2022-11-25T07:26:32.771Z INFO: DB Connection Successful
+2022-11-25T07:26:32.774Z INFO: Listening to port 8080
+2022-11-25T07:49:59.641Z INFO: DB Connection Successful
+2022-11-25T07:49:59.644Z INFO: Listening to port 8080
+2022-11-25T08:09:26.727Z INFO: DB Connection Successful
+2022-11-25T08:09:26.730Z INFO: Listening to port 8080
+2022-11-25T09:35:51.325Z INFO: DB Connection Successful
+2022-11-25T09:35:51.328Z INFO: Listening to port 8080
+2022-11-25T09:40:20.106Z INFO: DB Connection Successful
+2022-11-25T09:40:20.109Z INFO: Listening to port 8080
+2022-11-25T09:40:31.185Z INFO: DB Connection Successful
+2022-11-25T09:40:31.188Z INFO: Listening to port 8080
+2022-11-25T09:43:15.549Z INFO: DB Connection Successful
+2022-11-25T09:43:15.552Z INFO: Listening to port 8080
+2022-11-25T09:43:27.119Z INFO: DB Connection Successful
+2022-11-25T09:43:27.122Z INFO: Listening to port 8080
+2022-11-25T09:44:28.626Z INFO: DB Connection Successful
+2022-11-25T09:44:28.629Z INFO: Listening to port 8080
+2022-11-25T09:44:45.940Z INFO: DB Connection Successful
+2022-11-25T09:44:45.942Z INFO: Listening to port 8080
+2022-11-25T09:45:36.812Z INFO: DB Connection Successful
+2022-11-25T09:45:36.815Z INFO: Listening to port 8080
+2022-11-25T09:47:07.249Z INFO: DB Connection Successful
+2022-11-25T09:47:07.252Z INFO: Listening to port 8080
+2022-11-25T09:47:51.269Z INFO: DB Connection Successful
+2022-11-25T09:47:51.272Z INFO: Listening to port 8080
+2022-11-25T09:54:06.761Z INFO: DB Connection Successful
+2022-11-25T09:54:06.764Z INFO: Listening to port 8080
+2022-11-25T09:55:26.219Z INFO: DB Connection Successful
+2022-11-25T09:55:26.222Z INFO: Listening to port 8080
+2022-11-25T09:55:48.594Z INFO: DB Connection Successful
+2022-11-25T09:55:48.599Z INFO: Listening to port 8080
+2022-11-25T09:56:01.847Z INFO: DB Connection Successful
+2022-11-25T09:56:01.850Z INFO: Listening to port 8080
+2022-11-25T09:56:14.803Z INFO: DB Connection Successful
+2022-11-25T09:56:14.805Z INFO: Listening to port 8080
+2022-11-25T09:56:42.692Z INFO: DB Connection Successful
+2022-11-25T09:56:42.696Z INFO: Listening to port 8080
+2022-11-25T09:59:43.932Z INFO: DB Connection Successful
+2022-11-25T09:59:43.935Z INFO: Listening to port 8080
+2022-11-25T10:00:00.958Z INFO: DB Connection Successful
+2022-11-25T10:00:00.961Z INFO: Listening to port 8080
+2022-11-25T10:02:20.719Z INFO: DB Connection Successful
+2022-11-25T10:02:20.721Z INFO: Listening to port 8080
+2022-11-25T10:02:26.644Z INFO: DB Connection Successful
+2022-11-25T10:02:26.647Z INFO: Listening to port 8080
+2022-11-25T10:02:41.576Z INFO: DB Connection Successful
+2022-11-25T10:02:41.579Z INFO: Listening to port 8080
+2022-11-25T10:11:14.639Z INFO: DB Connection Successful
+2022-11-25T10:11:14.642Z INFO: Listening to port 8080
+2022-11-25T10:12:15.173Z INFO: DB Connection Successful
+2022-11-25T10:12:15.175Z INFO: Listening to port 8080
+2022-11-25T10:12:21.931Z INFO: DB Connection Successful
+2022-11-25T10:12:21.934Z INFO: Listening to port 8080
+2022-11-25T10:24:42.789Z INFO: DB Connection Successful
+2022-11-25T10:24:42.792Z INFO: Listening to port 8080
+2022-11-25T10:24:56.498Z INFO: DB Connection Successful
+2022-11-25T10:24:56.501Z INFO: Listening to port 8080
+2022-11-25T10:49:32.646Z INFO: DB Connection Successful
+2022-11-25T10:49:32.648Z INFO: Listening to port 8080
+2022-11-25T10:52:18.030Z INFO: DB Connection Successful
+2022-11-25T10:52:18.033Z INFO: Listening to port 8080
+2022-11-25T11:13:24.461Z INFO: DB Connection Successful
+2022-11-25T11:13:24.463Z INFO: Listening to port 8080
+2022-11-25T12:43:43.413Z INFO: DB Connection Successful
+2022-11-25T12:43:43.416Z INFO: Listening to port 8080
+2022-11-25T12:46:29.140Z INFO: DB Connection Successful
+2022-11-25T12:46:29.143Z INFO: Listening to port 8080
+2022-11-25T12:48:02.610Z INFO: DB Connection Successful
+2022-11-25T12:48:02.615Z INFO: Listening to port 8080
+2022-11-25T12:51:10.908Z INFO: DB Connection Error
+2022-11-25T12:59:08.055Z INFO: DB Connection Successful
+2022-11-25T12:59:08.058Z INFO: Listening to port 8080
+2022-11-25T13:01:25.551Z INFO: DB Connection Error
+2022-11-25T13:04:12.652Z INFO: DB Connection Error
+2022-11-25T13:05:49.910Z INFO: DB Connection Successful
+2022-11-25T13:05:49.913Z INFO: Listening to port 8080
+2022-11-25T13:08:11.374Z INFO: DB Connection Successful
+2022-11-25T13:08:11.376Z INFO: Listening to port 8080
+2022-11-25T13:29:22.881Z INFO: DB Connection Successful
+2022-11-25T13:29:22.888Z INFO: Listening to port 8080
+2022-11-25T13:53:05.948Z INFO: DB Connection Successful
+2022-11-25T13:53:05.950Z INFO: Listening to port 8080
+2022-11-25T13:53:57.827Z INFO: DB Connection Successful
+2022-11-25T13:53:57.830Z INFO: Listening to port 8080
+2022-11-25T13:55:19.048Z INFO: DB Connection Successful
+2022-11-25T13:55:19.051Z INFO: Listening to port 8080
+2022-11-25T13:57:46.025Z INFO: DB Connection Successful
+2022-11-25T13:57:46.029Z INFO: Listening to port 8080
+2022-11-25T14:31:49.120Z INFO: DB Connection Successful
+2022-11-25T14:31:49.125Z INFO: Listening to port 8080
+2022-11-25T14:32:28.533Z INFO: DB Connection Successful
+2022-11-25T14:32:28.537Z INFO: Listening to port 8080
+2022-11-25T14:33:28.014Z INFO: DB Connection Successful
+2022-11-25T14:33:28.017Z INFO: Listening to port 8080
+2022-11-25T14:34:33.908Z INFO: DB Connection Successful
+2022-11-25T14:34:33.912Z INFO: Listening to port 8080
+2022-11-25T14:35:23.792Z INFO: DB Connection Successful
+2022-11-25T14:35:23.795Z INFO: Listening to port 8080
+2022-11-25T14:36:23.871Z INFO: DB Connection Successful
+2022-11-25T14:36:23.875Z INFO: Listening to port 8080
+2022-11-25T14:37:09.785Z INFO: DB Connection Successful
+2022-11-25T14:37:09.788Z INFO: Listening to port 8080
+2022-11-25T14:37:42.480Z INFO: DB Connection Successful
+2022-11-25T14:37:42.484Z INFO: Listening to port 8080
+2022-11-25T14:38:09.555Z INFO: DB Connection Successful
+2022-11-25T14:38:09.559Z INFO: Listening to port 8080
+2022-11-25T14:39:40.997Z INFO: DB Connection Successful
+2022-11-25T14:39:41.000Z INFO: Listening to port 8080
+2022-11-25T14:40:29.434Z INFO: DB Connection Successful
+2022-11-25T14:40:29.437Z INFO: Listening to port 8080

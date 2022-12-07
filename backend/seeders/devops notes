@@ -1,0 +1,2882 @@
+------CAB-------- Change Advisory Board
+
+<div class="cab-table">
+  <table>
+    <tbody>
+      <tr>
+        <th style="width: 300px">Title</th>
+        <th style="width: 250px">Date &amp; Time</th>
+        <th style="text-align: center">Links</th>
+        <th>&nbsp;</th>
+      </tr>
+      <tr>
+        <td>BSG JIRA &amp; Confluence CAB</td>
+        <td>May 5 2022 - 8.00 AM PST</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <div><strong>Webex Recording:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></div>
+
+            <div style="align-items: center; display: flex; flex: 1">
+              <img
+                src="/default/image/web.png"
+                style="
+                  background: #ffffff;
+                  border-radius: 90px;
+                  border: 1px solid #e0e0e0;
+                  height: 35px;
+                  padding: 5px;
+                  vertical-align: middle;
+                  width: 35px;
+                "
+              /><a
+                href="https://broadcom.webex.com/webappng/sites/broadcom/recording/0e6aaf28aeb2103ab7e40050568134ff/playback"
+                style="margin: 0px 10px"
+                target="_blank"
+                >Open Webex</a
+              >
+            </div>
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <div><strong>Presentation Slides:&nbsp; &nbsp; &nbsp;&nbsp;</strong></div>
+
+            <div style="align-items: center; display: flex; flex: 1">
+              <img
+                src="/default/image/slide.png"
+                style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+              /><a
+                href="https://docs.google.com/presentation/d/1t2OX4kOGF25hfqVaImXCL6CvDG-n29zRpTtfjEBUjWM/edit#slide=id.gdec524b778_0_122"
+                style="margin: 0px 10px"
+                target="_blank"
+                >Open Google Slides</a
+              >
+            </div>
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              BSG Confluence
+              <ol>
+                <li>Architecture</li>
+                <li>Onprem to New SBO Platform</li>
+                <li>Upgrades to LTS</li>
+              </ol>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>
+              BSG Jira
+              <ol>
+                <li>GTO Platform to SBO Cloud Platform</li>
+                <li>Migration Timeline</li>
+              </ol>
+            </li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <ul>
+            <li>Secure Access Cloud (SAC)</li>
+            <li>Q &amp; A</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>qTest CAB - Support, Training, Professional Service and Migration</td>
+        <td>February 23</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/broadcom/ldr.php?RCID=2cdf4bc82aac462890812ae1cc24a53d"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides 1:</strong> &nbsp; &nbsp;
+            <img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/1gFj9-gMgMG3JPISPrlF7rdETsd9hXJm_IAgiC935bAo/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides 2:</strong> &nbsp; &nbsp;
+            <img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://drive.google.com/file/d/1OB8RC3elQP9aQOndjTYC0_C6Bk6ZOFfB/view?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>QTest URL:</strong> &nbsp; &nbsp;
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fqtest.devops.broadcom.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1hOzXrdINLtP8onnm6uecn"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open QTest</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Training registration sheet:</strong> &nbsp; &nbsp;
+            <a
+              href="https://docs.google.com/spreadsheets/d/1LgkH9ewtP0n4d7DEwsi6PGINDsf9oIIb2oPgD9Z5hdc/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Sheet</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Migration Sheet:</strong> &nbsp; &nbsp;
+            <a
+              href="https://docs.google.com/spreadsheets/d/1W9e3vnRZ_UkFd0Hz4RgURkxTFA0BzDsdczcSGiPKMcI/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Sheet</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management CAB - qTest rollout plan</td>
+        <td>January 19</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/webappng/sites/broadcom/recording/ea35528ba46d498f970345bb7aabf3d1/playback"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:</strong>&nbsp; &nbsp; &nbsp;&nbsp;<img
+              src="/default/image/slide.png"
+              style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+            /><a
+              href="https://docs.google.com/presentation/d/1NDstJji_mjUjlKt1paauZvjpFwyGga-ulAPROfDeYFA/edit#slide=id.g5c46ef74e8_0_17"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Pipeline CAB</td>
+        <td>December 11</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Fmeeting%2Fpostinfo%2Fd7fbb23539a84f58bdc7f50e3358143c_I_180267112384703155&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw25eWQhjxp9XNYAZtwk4Gx3"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Pipeline CAB</td>
+        <td>November 2</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Frecordingservice%2Fsites%2Fbroadcom%2Frecording%2Fplay%2Fda08959d7efa4dc9ace171c67cadf6b8&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw28twSnD1tNuxke5w38A4I6"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management CAB</td>
+        <td>August 28</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/webappng/sites/broadcom/recording/play/671363c5a9734112ac0577dadab75440"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:</strong>&nbsp; &nbsp; &nbsp;&nbsp;<img
+              src="/default/image/slide.png"
+              style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+            /><a
+              href="https://docs.google.com/presentation/d/10BPL3knWCEnjHV05K2eLDDB8uFgw1GvcSfxpGNptdhE/edit#slide=id.g93146aa441_0_29"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>BSG/SED JIRA CAB</td>
+        <td>October 29 2021 - 8 AM PST</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/fe03d9f41af6103aa5df0050568f090e/playback"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:</strong>&nbsp; &nbsp; &nbsp;&nbsp;<img
+              src="/default/image/slide.png"
+              style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+            /><a
+              href="https://docs.google.com/presentation/d/1tFC8aM6-XkHRfsvOt03wtV5lZ9-Z-R3cJ-ThX1DOKI8/edit#slide=id.gdec524b778_0_122"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="4'">
+          <ul>
+            <li>SED JIRA new URL &amp; Architecture</li>
+            <li>Highlights</li>
+            <li>Why is this happening</li>
+            <li>Impact for users</li>
+            <li>Migration Timeline</li>
+            <li>Next steps</li>
+            <li>Q &amp; A</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Toro CAB Meeting</td>
+        <td>October 15 2021</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://drive.google.com/file/d/1w2pBrRAGsYeg5z8bOC8CGCBf2yp0DKJh/view?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:</strong>&nbsp; &nbsp; &nbsp;&nbsp;<img
+              src="/default/image/slide.png"
+              style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+            /><a
+              href="https://docs.google.com/presentation/d/1lCRBKJKg4q7o73jcQWdGZctwgcS5Nbs2b0sT3vbUHKs/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>CAWiki CAB Meeting</td>
+        <td>October 13 2021</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/b156299f0e6c103ab7d50050568ffb55/playback"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:</strong>&nbsp; &nbsp; &nbsp;&nbsp;<img
+              src="/default/image/slide.png"
+              style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+            /><a
+              href="https://docs.google.com/presentation/d/16FIXR8h-8qFYzZa-JmsxgyDov0jPt6QK7Wa8BdqntpI/edit#slide=id.gdf172f1b70_0_0"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>BlackDuck &amp; Coverity CAB for SED</td>
+        <td>July 16</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fent.box.com%2Fs%2F1xhyubqpey4y89shqom3ooocpkm45kke&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1Jsq6R7lBKvz5sP0FApdNb"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:</strong>&nbsp; &nbsp; &nbsp;&nbsp;<img
+              src="/default/image/slide.png"
+              style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+            /><a
+              href="https://drive.google.com/a/broadcom.com/open?id=1D3h73LN8X0KqwLW9c1qFv-XnMoBv-UnjOglAPGbOxSM"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>DecSecOps CAB</td>
+        <td>July 2</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplayback%2Fa3f19fcdae764105994b22b39db39818&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3uTshzjp_2otKFUCJzuq3l"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+------CAB-------- Change Advisory Board-------- Agenda-----
+<div class="cab-table">
+  <table class="showmore toggle">
+    <tbody>
+      <tr>
+        <th style="width: 300px">Title</th>
+        <th style="width: 250px">Date &amp; Time</th>
+        <th style="text-align: center">Links</th>
+        <th>&nbsp;</th>
+      </tr>
+      <tr>
+        <td>BSG JIRA &amp; Confluence CAB</td>
+        <td>May 5 2022 - 8.00 AM PST</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <div><strong>Webex Recording:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></div>
+
+            <div style="align-items: center; display: flex; flex: 1">
+              <img
+                src="/default/image/web.png"
+                style="
+                  background: #ffffff;
+                  border-radius: 90px;
+                  border: 1px solid #e0e0e0;
+                  height: 35px;
+                  padding: 5px;
+                  vertical-align: middle;
+                  width: 35px;
+                "
+              /><a
+                href="https://broadcom.webex.com/webappng/sites/broadcom/recording/0e6aaf28aeb2103ab7e40050568134ff/playback"
+                style="margin: 0px 10px"
+                target="_blank"
+                >Open Webex</a
+              >
+            </div>
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <div>
+              <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong
+              ><img
+                src="/default/image/slide.png"
+                style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+              /><a
+                href="https://docs.google.com/presentation/d/1t2OX4kOGF25hfqVaImXCL6CvDG-n29zRpTtfjEBUjWM/edit#slide=id.gdec524b778_0_122"
+                style="margin: 0px 10px"
+                target="_blank"
+                >Open Google Slides</a
+              >
+            </div>
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              BSG Confluence
+              <ol>
+                <li>Architecture</li>
+                <li>Onprem to New SBO Platform</li>
+                <li>Upgrades to LTS</li>
+              </ol>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>
+              BSG Jira
+              <ol>
+                <li>GTO Platform to SBO Cloud Platform</li>
+                <li>Migration Timeline</li>
+              </ol>
+            </li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <ul>
+            <li>Secure Access Cloud (SAC)</li>
+            <li>Q &amp; A</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>qTest CAB - Support, Training, Professional Service and Migration</td>
+        <td>February 23</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/broadcom/ldr.php?RCID=2cdf4bc82aac462890812ae1cc24a53d"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides 1:&nbsp; &nbsp; &nbsp; &nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/1gFj9-gMgMG3JPISPrlF7rdETsd9hXJm_IAgiC935bAo/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides 2:&nbsp; &nbsp; &nbsp;&nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://drive.google.com/file/d/1OB8RC3elQP9aQOndjTYC0_C6Bk6ZOFfB/view?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>QTest URL:</strong> &nbsp; &nbsp;
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fqtest.devops.broadcom.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1hOzXrdINLtP8onnm6uecn"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open QTest</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Training registration sheet:</strong> &nbsp; &nbsp;
+            <a
+              href="https://docs.google.com/spreadsheets/d/1LgkH9ewtP0n4d7DEwsi6PGINDsf9oIIb2oPgD9Z5hdc/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Sheet</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Migration Sheet:</strong> &nbsp; &nbsp;
+            <a
+              href="https://docs.google.com/spreadsheets/d/1W9e3vnRZ_UkFd0Hz4RgURkxTFA0BzDsdczcSGiPKMcI/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Sheet</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management CAB - qTest rollout plan</td>
+        <td>January 19</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/webappng/sites/broadcom/recording/ea35528ba46d498f970345bb7aabf3d1/playback"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/1NDstJji_mjUjlKt1paauZvjpFwyGga-ulAPROfDeYFA/edit#slide=id.g5c46ef74e8_0_17"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Pipeline CAB</td>
+        <td>December 11</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Fmeeting%2Fpostinfo%2Fd7fbb23539a84f58bdc7f50e3358143c_I_180267112384703155&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw25eWQhjxp9XNYAZtwk4Gx3"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Pipeline CAB</td>
+        <td>November 2</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong
+            ><img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Frecordingservice%2Fsites%2Fbroadcom%2Frecording%2Fplay%2Fda08959d7efa4dc9ace171c67cadf6b8&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw28twSnD1tNuxke5w38A4I6"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management CAB</td>
+        <td>August 28</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/webappng/sites/broadcom/recording/play/671363c5a9734112ac0577dadab75440"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/10BPL3knWCEnjHV05K2eLDDB8uFgw1GvcSfxpGNptdhE/edit#slide=id.g93146aa441_0_29"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>BSG/SED JIRA CAB</td>
+        <td>October 29 2021 - 8 AM PST</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/fe03d9f41af6103aa5df0050568f090e/playback"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/1tFC8aM6-XkHRfsvOt03wtV5lZ9-Z-R3cJ-ThX1DOKI8/edit#slide=id.gdec524b778_0_122"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="4'">
+          <ul>
+            <li>SED JIRA new URL &amp; Architecture</li>
+            <li>Highlights</li>
+            <li>Why is this happening</li>
+            <li>Impact for users</li>
+            <li>Migration Timeline</li>
+            <li>Next steps</li>
+            <li>Q &amp; A</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Toro CAB Meeting</td>
+        <td>October 15 2021</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://drive.google.com/file/d/1w2pBrRAGsYeg5z8bOC8CGCBf2yp0DKJh/view?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/1lCRBKJKg4q7o73jcQWdGZctwgcS5Nbs2b0sT3vbUHKs/edit?usp=sharing"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>CAWiki CAB Meeting</td>
+        <td>October 13 2021</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/b156299f0e6c103ab7d50050568ffb55/playback"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://docs.google.com/presentation/d/16FIXR8h-8qFYzZa-JmsxgyDov0jPt6QK7Wa8BdqntpI/edit#slide=id.gdf172f1b70_0_0"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>BlackDuck &amp; Coverity CAB for SED</td>
+        <td>July 16</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fent.box.com%2Fs%2F1xhyubqpey4y89shqom3ooocpkm45kke&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1Jsq6R7lBKvz5sP0FApdNb"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Presentation Slides:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong
+            ><img src="/default/image/slide.png" style="height: 30px; padding: 5px; vertical-align: middle; width: 30px" /><a
+              href="https://drive.google.com/a/broadcom.com/open?id=1D3h73LN8X0KqwLW9c1qFv-XnMoBv-UnjOglAPGbOxSM"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Google Slides</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>DecSecOps CAB</td>
+        <td>July 2</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            /><a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplayback%2Fa3f19fcdae764105994b22b39db39818&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3uTshzjp_2otKFUCJzuq3l"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="4" style="text-align: center; color: #ce0930; cursor: pointer">Show More ▼</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+-----------Test Case Management -----------
+
+<div class="cab-table">
+  <table>
+    <tbody>
+      <tr>
+        <th style="width: 300px">Title</th>
+        <th style="width: 250px">Date &amp; Time</th>
+        <th>Links</th>
+        <th>&nbsp;</th>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Jira Integration session 6</td>
+        <td>November 13 @ 9am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://tricentis.zoom.us/rec/share/b7SrPRFbag5C7mlRRVfvrmTyWPdjmR1ehGMXaT57t4wpSVkjyu4UanYUmvf_yazw.vzkYEtHuIKahBnuP"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; f.&amp;iHTE7
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest and Jira integration</li>
+            <li>Type of connection and what is integrated</li>
+            <li>Defect filing using the integrated system</li>
+            <li>Information sent back into Jira</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fgetting_started_with_jira_integration.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3uOOwIITyaNDxOouDY9gVl"
+                target="_blank"
+                >Getting Started with Jira Integration</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fconnect_jira_integration.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0IjnDkaCYbDGGxFSCrCJYI"
+                target="_blank"
+                >Connect to Jira Integration</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fconfigure_jira_defects_.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2pxkIA8bil8NcXSg2AS5ZW"
+                target="_blank"
+                >Configure Jira Defects</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fimport_and_use_releases_from_jira.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw21N00NeKx75nBxb_SRlXEk"
+                target="_blank"
+                >Import and Use Releases from Jira</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fimport_and_use_requirements_from_jira.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3xXas6klP6VWo3AppoQRYU"
+                target="_blank"
+                >Import and Use Requirements from Jira</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Rally Integration session 5</td>
+        <td>November 13 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F_zMLZsuxHfEKhd4wIhEqjjdcjMH5rX56-EZj2Hmd-dLcidEUnEB_zsm1n7mk58k.9OERfqZKrZ5b6iq3&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw04u_it-7ljpUEYge7JgG5R"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; RGn!^@6K
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest and Rally integration</li>
+            <li>Type of connection and what is integrated</li>
+            <li>Defect filing using the integrated system</li>
+            <li>Information sent back into Rally</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fintegration_with_rally.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2watCOeWaMC9pgDHuT7M4h"
+                target="_blank"
+                >qTest - Integration with Rally</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dbest_practices%2Fbest_practices_for_integrating_with_rally.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1EE994ePFgRPQWBWNcwkwm"
+                target="_blank"
+                >Best Practices for integration with Rally</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dbest_practices%2Fbest_practices_for_integrating_with_rally.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1EE994ePFgRPQWBWNcwkwm"
+                target="_blank"
+                >Configuring the integration in qTest</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Report and Analytics session 4</td>
+        <td>November 12 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2Fae5W-lBb4LrY8Zr_Z0CTU5W-pHvEyx8fMfGjJCrOIow1UO_LTcJE-9Mujcd17TLh.i_sYpaoFPRoLrO9-&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1NKXbomvgl2x5F7889setS"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; a*7*aigF
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest Insights default dashboards</li>
+            <li>Filtering report data based on projects and other components</li>
+            <li>Creating custom dashboards</li>
+            <li>Creating custom reports</li>
+            <li>Scheduling and sending reports through e-mail</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_insights%2Fintroduction%2Finsights_quick_start_guide.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2c2aVXd-X82oMA0wliDYzW"
+                target="_blank"
+                >Insights &ndash; Quick Start Guide</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Fintroduction%2Fusing_global_filters.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3dyMcBsysSVTx3tOAtstm6"
+                target="_blank"
+                >Using Global Filters</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Fdashboards%2Fdashboards.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw23DYbIpjcTcBLywRFEdZFO"
+                target="_blank"
+                >Dashboards</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Freporting%2Fexplore_data_and_custom_reporting.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3RFeB9I2-u2VAWHotFV2Qx"
+                target="_blank"
+                >Explore Data and Custom Reporting</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Freporting%2Fmanage_and_schedule_reports__with_new_scheduler_.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0AkIXh1GADCtn__Yd4srrD"
+                target="_blank"
+                >Manage and Schedule Reporting</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Exploratory Testing session 3</td>
+        <td>November 11 @ 10am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F0Kvis1yM4SYkjEOr_zJAQLVI1Tt_LuTC_27CUlBAWJN5jFuPAzwv9h0W3o_ZmRe8.Gsl4zISGBHjuCp-A&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3Or6l7i_VcFb96vt7pwYbY"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; R%R%0@De
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest Explorer recording in a web browser</li>
+            <li>Editing and markup of captured screenshots and steps</li>
+            <li>Creating and updating a defect</li>
+            <li>Creating and updating a test case</li>
+            <li>Exporting exploratory session to a document</li>
+            <li>Creation of automated scripts</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_explorer_sessions%2Fweb_explorer_user_guide%2Fweb_explorer_quick_start_guide.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0_vzK-mXyDcgvFfMxRThNd"
+                target="_blank"
+                >Web Explorer &ndash; Quick Start Guide</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fweb_explorer_user_guide%2Ftest_and_record.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0XpXd_Tk4bHz1nkAgLbtYe"
+                target="_blank"
+                >Record Testing Sessions Using Web Explorer</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fdesktop_explorer_user_guide%2Fdesktop_explorer_quick_start_guide.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1MHsJSAZlMuSYD5P-nqKwj"
+                target="_blank"
+                >Desktop Explorer &ndash; Quick Start Guide
+              </a>
+            </li>
+            <li>Sessions Module</li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fsessions_module%2Freview_in_session_editor.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rDXjGxq6fA6jjFkzx9uyQ"
+                target="_blank"
+                >Review In Session Editor</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fsessions_module%2Fsubmitting_defect.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2v_4sQL4RkInjEKAVcijym"
+                target="_blank"
+                >Submitting Defects</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fsessions_module%2Fsubmitting_test_case.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2qmQ428_ddxjDKT2r85vgO"
+                target="_blank"
+                >Submitting Test Cases</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Tips and Tricks session 2</td>
+        <td>November 10 @ 7am &amp; 1pm</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px"><em>Morning Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://tricentis.zoom.us/rec/share/oT4zQll3h86kj__VaBebHFJFO0BBzzijH2A4xdbsbGvMBCyJejMTgVzuZPFPddiQ.l6bL3hc_FnxXKgGo"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; zQ1V%c!2
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px"><em>Afternoon Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FoT4zQll3h86kj__VaBebHFJFO0BBzzijH2A4xdbsbGvMBCyJejMTgVzuZPFPddiQ.l6bL3hc_FnxXKgGo&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1o-hxPC-UkyTjtj9qZLbyc"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; zQ1V%c!2
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>Creation of Test Suites/Test Runs</li>
+            <li>Creating the structure and flexibility in qTest</li>
+            <li>Adding tests/test runs to a test suite</li>
+            <li>Test Execution &ndash; Filing Bugs</li>
+            <li>Walked through creating a bug from a manual test run</li>
+            <li>Discussed other ways such as linking and exploratory testing bug submission</li>
+            <li>Using a CI/CD &ndash; Jenkins</li>
+            <li>Showed the qTest Jenkins plugin and went over the configuration</li>
+            <li>
+              Showed that in qTest Manager (test Execution tab) the Test Suite and test runs are automatically created and
+              status shown without any manual creation of shell test executions
+            </li>
+            <li>Status, logs and history of executions is available automatically when running the automated tests</li>
+            <li>Where is the help?</li>
+            <li>Within the qTest Manager (and any other qTest screen)</li>
+            <li>The link to documents, videos, submitting tickets and other help can be found in the upper right corner</li>
+            <li>Finding the hot keys</li>
+            <li>
+              For each tab within qTest Manager, the hot keys menu can be found in the bottom left corner of the screen, and
+              when clicked, expands the short cuts list
+            </li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_manager%2Ftest_execution%2Flanding_page_test_execution.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1PNww9OONWh2GEQzqbbTDj"
+                target="_blank"
+                >Test Execution</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_manager%2Ftest_execution%2Fadd_test_runs%2Fadd_test_runs_landing_page.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw34tPdf5X61MBj_OxaKHtzw"
+                target="_blank"
+                >Add Test Runs</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_manager%2Fdefects%2Fsubmit_defects_in_test_execution.htm%23Submit&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1MiB-7hcuguGT4QlmYmHXI"
+                target="_blank"
+                >Submit Defects in Test Execution</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_apis%2Fci_integrations%2Fjenkins_and_bamboo_integration.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0iiOFMAs5OJTM0Tg0HrZ3t"
+                target="_blank"
+                >qTest-Jenkins Integration
+              </a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Tips and Tricks session 1</td>
+        <td>November 9 @ 7am &amp; 1pm</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px"><em>Morning Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FdJAQdOwfI7bxoxhouiHbpl0cKpdA_i62vdHltqrKba-Ej5elGkAytYK4gNaeM9m3.oqnZ81-AQbmKGZsn&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3b5AjIO3bJ277Rbiz6ouiz"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; %*@bHn0k
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px"><em>Afternoon Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F8UJpt3ask4ZtIr-auczmeoi7CKKdiWjDFmwqEaL41UQugO8XVVfaNP19drvOXc7h.JxZOv4ZcEEy3NCmN&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0vYUA9fLyOZsbyKeIEgMQu"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; tZR*pw7R
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="4">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>Custom fields:</li>
+            <li>Difference between Site-level and project-level fields</li>
+            <li>Modifying lists of existing fields (default and custom)</li>
+            <li>Creating and modifying custom fields in qTest (project-level fields)</li>
+            <li>Importing/exporting of test cases</li>
+            <li>Excel Import of test cases</li>
+            <li>Data querying for requirements and test cases</li>
+            <li>Ability to create queries to view assignments, duplicate tests, etc.</li>
+            <li>Best Practices for Test cases</li>
+            <li>Modularized test cases</li>
+            <li>Utilizing parameters and embedded test cases</li>
+            <li>Test case sharing</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest end user training</td>
+        <td>October 23 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F5a8YGo7yZsBK06hCIpf9Er43ibYXffwnLXYLDwzm10TK-mmuiEjmuuMzil7uzdJs.deV-e_STLA-O_0LH&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2H6Dp7LwNwUWSXJvKaIOjj"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; L=26C@!L
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest admin session</td>
+        <td>October 22 @ 1am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FscEuPsk-n3LDIhtvaHbandBnkUMhYHo2_vSD8yO01y6MuzcB-yUTwJD6PWaSEWh5.A7nol5IspBe81o5S&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2r11jxtm-dYDm9RnkAvl-U"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; E*R$2aPc
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest installation</td>
+        <td>October 15 @ 10am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FfryO8y1s0WF9OVomzx6_Ato2Z5fiwXWus0g3LWp4WYtIz4DB5xc3m79UQRG7ZUBj.2PQIHZ9MTZi59MPS&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw14KkfsfsCl9kyVUq8muI4S"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; T@!gg0&amp;6
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest mainframe support demo</td>
+        <td>October 7 @ 3am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F1d3409b7e622411e9445e32a77e20af2&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2lQFGlvvmq59I6SpqB2iW0"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest pilot planning</td>
+        <td>October 5 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F17ae083fba63451eb87b78ac8fa3371f&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1ULYjp3ousbL2w9lhrsn-b"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - TestRail demo</td>
+        <td>October 2 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2Ff3ad836ff7ca4c3e855e9dd655bf5de0&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2hU9hdhDHXYClxLjSljYLy"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest demo follow up</td>
+        <td>October 1 @ 8:30am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F4e00572906c04ac8a1dc73c66e202411&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0nADrHutUfIB5IwM6t5bdo"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Test Collab demo</td>
+        <td>September 30 @ 9am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2F9ISkgO0-uLVtvFrTHFJcfChTl8DFBLVJmNtLt1M_h37iy3I9JmVJN097OHQ2sI3A.NvEgFH1o1KjDPW1E&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2Io_YHNzExcn5N-rOXUORZ"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; AQFS0PP$
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest demo</td>
+        <td>September 25 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F635bb7d3eba84a659c2a22358da3bb6a&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0gGFw6EhwUmx0Cdq3H9c2d"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+-----------Test Case Management -----------Agenda---------
+
+<div class="cab-table">
+  <table class="toggle showmore">
+    <tbody>
+      <tr>
+        <th style="width: 300px">Title</th>
+        <th style="width: 250px">Date &amp; Time</th>
+        <th>Links</th>
+        <th>&nbsp;</th>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Jira Integration session 6</td>
+        <td>November 13 @ 9am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://tricentis.zoom.us/rec/share/b7SrPRFbag5C7mlRRVfvrmTyWPdjmR1ehGMXaT57t4wpSVkjyu4UanYUmvf_yazw.vzkYEtHuIKahBnuP"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; f.&amp;iHTE7
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest and Jira integration</li>
+            <li>Type of connection and what is integrated</li>
+            <li>Defect filing using the integrated system</li>
+            <li>Information sent back into Jira</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fgetting_started_with_jira_integration.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3uOOwIITyaNDxOouDY9gVl"
+                target="_blank"
+                >Getting Started with Jira Integration</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fconnect_jira_integration.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0IjnDkaCYbDGGxFSCrCJYI"
+                target="_blank"
+                >Connect to Jira Integration</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fconfigure_jira_defects_.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2pxkIA8bil8NcXSg2AS5ZW"
+                target="_blank"
+                >Configure Jira Defects</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fimport_and_use_releases_from_jira.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw21N00NeKx75nBxb_SRlXEk"
+                target="_blank"
+                >Import and Use Releases from Jira</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fimport_and_use_requirements_from_jira.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3xXas6klP6VWo3AppoQRYU"
+                target="_blank"
+                >Import and Use Requirements from Jira</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Rally Integration session 5</td>
+        <td>November 13 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F_zMLZsuxHfEKhd4wIhEqjjdcjMH5rX56-EZj2Hmd-dLcidEUnEB_zsm1n7mk58k.9OERfqZKrZ5b6iq3&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw04u_it-7ljpUEYge7JgG5R"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; RGn!^@6K
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest and Rally integration</li>
+            <li>Type of connection and what is integrated</li>
+            <li>Defect filing using the integrated system</li>
+            <li>Information sent back into Rally</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_manager%2Fintegrations%2Fintegration_with_rally.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2watCOeWaMC9pgDHuT7M4h"
+                target="_blank"
+                >qTest - Integration with Rally</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dbest_practices%2Fbest_practices_for_integrating_with_rally.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1EE994ePFgRPQWBWNcwkwm"
+                target="_blank"
+                >Best Practices for integration with Rally</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dbest_practices%2Fbest_practices_for_integrating_with_rally.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1EE994ePFgRPQWBWNcwkwm"
+                target="_blank"
+                >Configuring the integration in qTest</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Report and Analytics session 4</td>
+        <td>November 12 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2Fae5W-lBb4LrY8Zr_Z0CTU5W-pHvEyx8fMfGjJCrOIow1UO_LTcJE-9Mujcd17TLh.i_sYpaoFPRoLrO9-&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1NKXbomvgl2x5F7889setS"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; a*7*aigF
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest Insights default dashboards</li>
+            <li>Filtering report data based on projects and other components</li>
+            <li>Creating custom dashboards</li>
+            <li>Creating custom reports</li>
+            <li>Scheduling and sending reports through e-mail</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_insights%2Fintroduction%2Finsights_quick_start_guide.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2c2aVXd-X82oMA0wliDYzW"
+                target="_blank"
+                >Insights &ndash; Quick Start Guide</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Fintroduction%2Fusing_global_filters.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3dyMcBsysSVTx3tOAtstm6"
+                target="_blank"
+                >Using Global Filters</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Fdashboards%2Fdashboards.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw23DYbIpjcTcBLywRFEdZFO"
+                target="_blank"
+                >Dashboards</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Freporting%2Fexplore_data_and_custom_reporting.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3RFeB9I2-u2VAWHotFV2Qx"
+                target="_blank"
+                >Explore Data and Custom Reporting</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_insights%2Freporting%2Fmanage_and_schedule_reports__with_new_scheduler_.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0AkIXh1GADCtn__Yd4srrD"
+                target="_blank"
+                >Manage and Schedule Reporting</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Exploratory Testing session 3</td>
+        <td>November 11 @ 10am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F0Kvis1yM4SYkjEOr_zJAQLVI1Tt_LuTC_27CUlBAWJN5jFuPAzwv9h0W3o_ZmRe8.Gsl4zISGBHjuCp-A&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3Or6l7i_VcFb96vt7pwYbY"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; R%R%0@De
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>qTest Explorer recording in a web browser</li>
+            <li>Editing and markup of captured screenshots and steps</li>
+            <li>Creating and updating a defect</li>
+            <li>Creating and updating a test case</li>
+            <li>Exporting exploratory session to a document</li>
+            <li>Creation of automated scripts</li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fsupport.tricentis.com%2Fcommunity%2Fmanuals_detail.do%3Flang%3Den%26version%3D10.1.0%26module%3DTricentis%2520qTest%2520On-Premise%26url%3Dqtest_explorer_sessions%2Fweb_explorer_user_guide%2Fweb_explorer_quick_start_guide.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0_vzK-mXyDcgvFfMxRThNd"
+                target="_blank"
+                >Web Explorer &ndash; Quick Start Guide</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fweb_explorer_user_guide%2Ftest_and_record.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0XpXd_Tk4bHz1nkAgLbtYe"
+                target="_blank"
+                >Record Testing Sessions Using Web Explorer</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fdesktop_explorer_user_guide%2Fdesktop_explorer_quick_start_guide.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1MHsJSAZlMuSYD5P-nqKwj"
+                target="_blank"
+                >Desktop Explorer &ndash; Quick Start Guide
+              </a>
+            </li>
+            <li>Sessions Module</li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fsessions_module%2Freview_in_session_editor.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rDXjGxq6fA6jjFkzx9uyQ"
+                target="_blank"
+                >Review In Session Editor</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fsessions_module%2Fsubmitting_defect.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2v_4sQL4RkInjEKAVcijym"
+                target="_blank"
+                >Submitting Defects</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_explorer_sessions%2Fsessions_module%2Fsubmitting_test_case.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2qmQ428_ddxjDKT2r85vgO"
+                target="_blank"
+                >Submitting Test Cases</a
+              >
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Tips and Tricks session 2</td>
+        <td>November 10 @ 7am &amp; 1pm</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px"><em>Morning Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://tricentis.zoom.us/rec/share/oT4zQll3h86kj__VaBebHFJFO0BBzzijH2A4xdbsbGvMBCyJejMTgVzuZPFPddiQ.l6bL3hc_FnxXKgGo"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; zQ1V%c!2
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px"><em>Afternoon Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FoT4zQll3h86kj__VaBebHFJFO0BBzzijH2A4xdbsbGvMBCyJejMTgVzuZPFPddiQ.l6bL3hc_FnxXKgGo&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1o-hxPC-UkyTjtj9qZLbyc"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; zQ1V%c!2
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>Creation of Test Suites/Test Runs</li>
+            <li>Creating the structure and flexibility in qTest</li>
+            <li>Adding tests/test runs to a test suite</li>
+            <li>Test Execution &ndash; Filing Bugs</li>
+            <li>Walked through creating a bug from a manual test run</li>
+            <li>Discussed other ways such as linking and exploratory testing bug submission</li>
+            <li>Using a CI/CD &ndash; Jenkins</li>
+            <li>Showed the qTest Jenkins plugin and went over the configuration</li>
+            <li>
+              Showed that in qTest Manager (test Execution tab) the Test Suite and test runs are automatically created and
+              status shown without any manual creation of shell test executions
+            </li>
+            <li>Status, logs and history of executions is available automatically when running the automated tests</li>
+            <li>Where is the help?</li>
+            <li>Within the qTest Manager (and any other qTest screen)</li>
+            <li>The link to documents, videos, submitting tickets and other help can be found in the upper right corner</li>
+            <li>Finding the hot keys</li>
+            <li>
+              For each tab within qTest Manager, the hot keys menu can be found in the bottom left corner of the screen, and
+              when clicked, expands the short cuts list
+            </li>
+          </ul>
+        </td>
+        <td colspan="2">
+          <p><strong>Additional Helpful Links:</strong></p>
+
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_manager%2Ftest_execution%2Flanding_page_test_execution.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1PNww9OONWh2GEQzqbbTDj"
+                target="_blank"
+                >Test Execution</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_manager%2Ftest_execution%2Fadd_test_runs%2Fadd_test_runs_landing_page.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw34tPdf5X61MBj_OxaKHtzw"
+                target="_blank"
+                >Add Test Runs</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_manager%2Fdefects%2Fsubmit_defects_in_test_execution.htm%23Submit&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1MiB-7hcuguGT4QlmYmHXI"
+                target="_blank"
+                >Submit Defects in Test Execution</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/url?q=https%3A%2F%2Fdocumentation.tricentis.com%2Fqtest%2F10100%2Fen%2Fcontent%2Fqtest_apis%2Fci_integrations%2Fjenkins_and_bamboo_integration.htm&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0iiOFMAs5OJTM0Tg0HrZ3t"
+                target="_blank"
+                >qTest-Jenkins Integration
+              </a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest Tips and Tricks session 1</td>
+        <td>November 9 @ 7am &amp; 1pm</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px"><em>Morning Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FdJAQdOwfI7bxoxhouiHbpl0cKpdA_i62vdHltqrKba-Ej5elGkAytYK4gNaeM9m3.oqnZ81-AQbmKGZsn&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3b5AjIO3bJ277Rbiz6ouiz"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; %*@bHn0k
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px"><em>Afternoon Recording:</em></div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F8UJpt3ask4ZtIr-auczmeoi7CKKdiWjDFmwqEaL41UQugO8XVVfaNP19drvOXc7h.JxZOv4ZcEEy3NCmN&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0vYUA9fLyOZsbyKeIEgMQu"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; tZR*pw7R
+          </div>
+        </td>
+        <td style="color: #ce0930; cursor: pointer; white-space: nowrap">Agenda ▼</td>
+      </tr>
+      <tr>
+        <td colspan="4">
+          <p><strong>What is covered from the session:</strong></p>
+
+          <ul>
+            <li>Custom fields:</li>
+            <li>Difference between Site-level and project-level fields</li>
+            <li>Modifying lists of existing fields (default and custom)</li>
+            <li>Creating and modifying custom fields in qTest (project-level fields)</li>
+            <li>Importing/exporting of test cases</li>
+            <li>Excel Import of test cases</li>
+            <li>Data querying for requirements and test cases</li>
+            <li>Ability to create queries to view assignments, duplicate tests, etc.</li>
+            <li>Best Practices for Test cases</li>
+            <li>Modularized test cases</li>
+            <li>Utilizing parameters and embedded test cases</li>
+            <li>Test case sharing</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest end user training</td>
+        <td>October 23 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2F5a8YGo7yZsBK06hCIpf9Er43ibYXffwnLXYLDwzm10TK-mmuiEjmuuMzil7uzdJs.deV-e_STLA-O_0LH&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2H6Dp7LwNwUWSXJvKaIOjj"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; L=26C@!L
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest admin session</td>
+        <td>October 22 @ 1am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FscEuPsk-n3LDIhtvaHbandBnkUMhYHo2_vSD8yO01y6MuzcB-yUTwJD6PWaSEWh5.A7nol5IspBe81o5S&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2r11jxtm-dYDm9RnkAvl-U"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; E*R$2aPc
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest installation</td>
+        <td>October 15 @ 10am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Ftricentis.zoom.us%2Frec%2Fshare%2FfryO8y1s0WF9OVomzx6_Ato2Z5fiwXWus0g3LWp4WYtIz4DB5xc3m79UQRG7ZUBj.2PQIHZ9MTZi59MPS&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw14KkfsfsCl9kyVUq8muI4S"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; T@!gg0&amp;6
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest mainframe support demo</td>
+        <td>October 7 @ 3am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F1d3409b7e622411e9445e32a77e20af2&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2lQFGlvvmq59I6SpqB2iW0"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest pilot planning</td>
+        <td>October 5 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F17ae083fba63451eb87b78ac8fa3371f&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1ULYjp3ousbL2w9lhrsn-b"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - TestRail demo</td>
+        <td>October 2 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2Ff3ad836ff7ca4c3e855e9dd655bf5de0&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2hU9hdhDHXYClxLjSljYLy"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest demo follow up</td>
+        <td>October 1 @ 8:30am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F4e00572906c04ac8a1dc73c66e202411&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0nADrHutUfIB5IwM6t5bdo"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Test Collab demo</td>
+        <td>September 30 @ 9am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2F9ISkgO0-uLVtvFrTHFJcfChTl8DFBLVJmNtLt1M_h37iy3I9JmVJN097OHQ2sI3A.NvEgFH1o1KjDPW1E&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2Io_YHNzExcn5N-rOXUORZ"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Access Passcode:</strong> &nbsp; &nbsp; AQFS0PP$
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Test Case Management - Qtest demo</td>
+        <td>September 25 @ 8am</td>
+        <td>
+          <div style="align-items: center; display: flex; padding: 5px">
+            <strong>Webex Recording:</strong> &nbsp; &nbsp;
+            <img
+              src="/default/image/web.png"
+              style="
+                background: #ffffff;
+                border-radius: 90px;
+                border: 1px solid #e0e0e0;
+                height: 35px;
+                padding: 5px;
+                vertical-align: middle;
+                width: 35px;
+              "
+            />
+            <a
+              href="https://www.google.com/url?q=https%3A%2F%2Fbroadcom.webex.com%2Fwebappng%2Fsites%2Fbroadcom%2Frecording%2Fplay%2F635bb7d3eba84a659c2a22358da3bb6a&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0gGFw6EhwUmx0Cdq3H9c2d"
+              style="margin: 0px 10px"
+              target="_blank"
+              >Open Webex</a
+            >
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="4" style="text-align: center; color: #ce0930; cursor: pointer">Show More ▼</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+------------SED--------------------
+
+<table>
+  <tbody>
+    <tr>
+      <th><span style="color: #c0392b">Title</span></th>
+      <th><span style="color: #c0392b">Date &amp; Time</span></th>
+      <th><span style="color: #c0392b">Links</span></th>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>April 6 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp;</strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 100px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/14deac6f7bf047109185655dde7788cc"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>April 3 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp;</strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 100px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/15fbe188159a43b987d60dd08ec9af55"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>April 8 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp;&nbsp;</strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 90px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/8744bdf4aca54790a5f5da33ceb50905"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>April 7 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp; </strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 90px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/d8a2235e65c84353a6d81617c9fc330a"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>April 2 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp;&nbsp;</strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 90px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/cfe6d029fc66495ebaa4dca10451a3b1"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>April 1 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp;&nbsp;</strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 90px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/0208267064a04c1b92ed52c531b6c4d2"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>March 31 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp; </strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 90px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/04022e47110b44d6b74114d227956134"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>SED Hypercare Meeting</td>
+      <td>March 30 @ 8am</td>
+      <td>
+        <p>
+          <strong>Webex Recording:&nbsp; &nbsp;&nbsp;</strong
+          ><img
+            src="/default/image/web.png"
+            style="
+              background: #ffffff;
+              border-radius: 90px;
+              border: 1px solid #e0e0e0;
+              height: 35px;
+              padding: 5px;
+              vertical-align: middle;
+              width: 35px;
+            "
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://broadcom.webex.com/recordingservice/sites/broadcom/recording/playback/7069fbfcb7b648209a135e5a51f8208a"
+            target="_blank"
+            >Open Webex</a
+          >
+        </p>
+
+        <p>
+          <strong>Presentation Slides:&nbsp;&nbsp;</strong
+          ><img
+            src="/default/image/slide.png"
+            style="height: 30px; padding: 5px; vertical-align: middle; width: 30px"
+          />&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="https://docs.google.com/presentation/d/1Gfcv1FJPHTANQtRr5bSLlQ_RaKyrAVpjTB4v-o5At3s/edit?usp=sharing"
+            target="_blank"
+            >Open Google Slides</a
+          >
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+------------Dynamic Script------------ function init() { let all_tables = document.querySelectorAll('table'); let tables_list
+= [...all_tables].filter((n) => n.className.includes('showmore') ); tables_list.forEach((element, index) => { let parent_rows
+= []; if (element.className.includes('toggle')) { let last_row = element.querySelector('tr:last-child'); let exception_rows =
+[]; let all_rows = element.querySelectorAll('tr'); for (let r = 1; r < all_rows.length - 1; r++) { if
+(all_rows[r].textContent.includes('Agenda') === true) { all_rows[r + 1].style.background = '#fff'; all_rows[r +
+1].style.display = 'none'; all_rows[r].querySelector('td:last-child').onclick = function ( event ) { if (all_rows[r +
+1].style.display === 'none') { all_rows[r + 1].style.display = ''; event.target.textContent = 'Agenda ▲'; } else { all_rows[r
++ 1].style.display = 'none'; event.target.textContent = 'Agenda ▼'; } }; } if (all_rows[r].style.display !== 'none') {
+parent_rows.push(all_rows[r]); } last_row.onclick = function (event) { if (event.target.textContent.includes('Show More')) {
+event.target.textContent = 'Show Less ▲'; for (let s = 0; s < parent_rows.length; s++) { parent_rows[s].style.display = ''; }
+} else { event.target.textContent = 'Show More ▼'; for (let t = 1; t < all_rows.length - 1; t++) { if
+(all_rows[t].textContent.includes('Agenda') === true) { all_rows[t].querySelector('td:last-child').textContent = 'Agenda ▼';
+all_rows[t + 1].style.display = 'none'; } } for (let s = 0; s < parent_rows.length; s++) { if (s > 4) {
+parent_rows[s].style.display = 'none'; } } } }; } for (let s = 0; s < parent_rows.length; s++) { if (s > 4) {
+parent_rows[s].style.display = 'none'; } else { parent_rows[s].style.display = ''; } } } else { let all_rows =
+element.querySelectorAll('tr'); let last_row = element.querySelector('tr:last-child'); for (let r = 1; r < all_rows.length -
+1; r++) { if (r > 5) { all_rows[r].style.display = 'none'; } else { all_rows[r].style.display = ''; } } last_row.onclick =
+function (event) { if (event.target.textContent.includes('Show More')) { event.target.textContent = 'Show Less ▲'; for (let r
+= 1; r < all_rows.length - 1; r++) { all_rows[r].style.display = ''; } } else { for (let r = 1; r < all_rows.length - 1; r++)
+{ if (r > 5) { all_rows[r].style.display = 'none'; } } event.target.textContent = 'Show More ▼'; } }; } }); } window.onload =
+init();

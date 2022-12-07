@@ -1,0 +1,12 @@
+2022-11-23T08:33:32.790Z ERROR: ERROR: '401 - GET /api/v1/champion - 2.899 ms
+2022-11-23T08:33:32.794Z ERROR: ERROR: '401 - GET /api/v1/banner?today=true - 0.609 ms
+2022-11-23T08:33:32.799Z ERROR: ERROR: '401 - GET /api/v1/champion - 1.083 ms
+2022-11-23T08:33:32.802Z ERROR: ERROR: '401 - GET /api/v1/champion - 0.470 ms
+2022-11-23T10:36:48.331Z ERROR: ERROR: '401 - GET /api/v1/champion - 2.851 ms
+2022-11-23T10:36:48.336Z ERROR: ERROR: '401 - GET /api/v1/banner?today=true - 1.053 ms
+2022-11-23T10:36:48.342Z ERROR: ERROR: '401 - GET /api/v1/champion - 0.953 ms
+2022-11-23T10:36:48.354Z ERROR: ERROR: '401 - GET /api/v1/champion - 0.681 ms
+2022-11-23T12:08:41.529Z ERROR: ERROR: '401 - GET /api/v1/champion - 3.613 ms
+2022-11-23T12:08:41.533Z ERROR: ERROR: '401 - GET /api/v1/banner?today=true - 0.669 ms
+2022-11-23T12:08:41.538Z ERROR: ERROR: '401 - GET /api/v1/champion - 0.844 ms
+2022-11-23T12:08:41.546Z ERROR: ERROR: '401 - GET /api/v1/champion - 1.438 ms

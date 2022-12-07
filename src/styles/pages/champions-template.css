@@ -1,0 +1,10 @@
+.transparent-card {
+  background: #fff;
+  border: 0px solid transparent;
+}
+.featured-card {
+  background: #f5f7fa;
+  box-shadow: 4px 8px 7px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid #dde3ed;
+}

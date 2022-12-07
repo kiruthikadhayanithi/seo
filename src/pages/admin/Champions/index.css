@@ -1,0 +1,65 @@
+.champions-form {
+  margin-top: 20px;
+}
+.champions-header {
+  color: #cc092f;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 5px;
+}
+.champions-form-component {
+  border: 1px solid #eeeeee;
+  box-shadow: 0px 4px 6px rgba(62, 73, 84, 0.04);
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 10px;
+}
+.preview-btn {
+  background: #cc092f;
+  font-size: 12px;
+  height: 40px;
+  width: 100px;
+  font-weight: 400;
+}
+.champions-block-titles {
+  padding: 10px 0px;
+}
+.block-flex {
+  display: flex;
+  align-items: center;
+}
+.champions-btn-section {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+/* Popup style sheet */
+.css-i2jbnz-MuiInputBase-root-MuiOutlinedInput-root {
+  outline: none !important;
+}
+.closeBtn {
+  position: absolute !important;
+  top: 20px;
+  right: 20px;
+}
+
+.confirmationField {
+  text-align: center;
+}
+
+/* #form-fields {
+  border: 1px solid #afbacc;
+  width: 100%;
+  height: 20px;
+  border-radius: 4px;
+  padding: 10px;
+  font-weight: 400;
+  color: #333840;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  animation-duration: 10ms;
+  font-family: gotham_book_webfont;
+  box-sizing: content-box;
+  -webkit-tap-highlight-color: transparent;
+} */

@@ -1,0 +1,63 @@
+/* Version Standardization */
+
+.versionStand h1 {
+  font-size: 55px;
+  color: #fff;
+}
+
+.versionStand h3 {
+  color: #e7e7e7;
+  font-size: 30px;
+  font-weight: 100;
+  letter-spacing: 4px;
+  margin: -25px 0 15px;
+}
+
+.version_img {
+  position: relative;
+  display: flex;
+  left: 100px;
+  align-items: center;
+}
+
+.version_img2 {
+  position: relative;
+  display: flex;
+  left: 9px;
+  align-items: center;
+}
+
+.version_img3 {
+  position: relative;
+  display: flex;
+  left: 28px;
+  align-items: center;
+}
+
+.version_text_div {
+  background-color: #fdf2ce;
+  margin-top: 24px;
+  color: #000;
+}
+
+.version_text {
+  margin-left: 140px;
+}
+
+.vs_list li {
+  list-style-type: disc;
+}
+
+.vs_bold_text {
+  font-size: 17px !important;
+}
+.versionStd ul {
+  padding-left: 20px;
+}
+.versionStd ol {
+  padding-left: 20px;
+}
+.versionStd li {
+  color: #000;
+  line-height: 2;
+}

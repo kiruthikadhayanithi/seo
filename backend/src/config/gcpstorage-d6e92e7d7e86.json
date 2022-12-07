@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sbosdtglp-klera",
+  "private_key_id": "d6e92e7d7e86d4c701f800f9c0c2f8c6685562af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWscO+hWi7Xzw3\nxEAZJI7DMD+ZOjKcNSlzOwvwRvlWoCuuJdIatFV05+03oanEmD2xwd3G57Z8Frsd\nMyMfc8y/eRZNIGR3069eSpMFQMpaLLX9Ho/oE/K4hE+6kuLF8QvlsY+Yxc9nwzNf\nUbOHz4JQBrNzjx0s60LHu83B/cmB1PYg3lCRwFIbexjnnNPZAGzGczvv7rU96L6E\nKcfVWrZEUdWZWJRCHLeGkrRaWd6E6CCTOqyODmIkQI4hZ/lGFva743+Vf8FFqaY4\njE1Iuw7zEnNzpYZXapM2pnPwWE1oAzJntd0opvlqrDBs5A53u8Qc2aYaSS9m+q7u\n9R5aaYYZAgMBAAECggEAAhjv/N1ASe5TAAd4idZX17PRtz1Aj9KcIk5OHk2PM4ey\njYu8ivq+h/sZD+1SI4PKPIGUmVQbrggp0U311qGSuz8jVuMNYDdO9Aid+ZPptipQ\nJ9Yj2URSn3dZcQzszrq9X0PWD4vFLDIVvyVk79t43i/GkocwJYdx2lItHytLy+sk\nXL7Mt9DzumIjMrpFMxzDZYm9dqI8D02jwflnvY7t3/fnMd53EYQfl/58ZWBGFPKz\n2qFJZ/vCH4PP4YPrmycUeMvhRGESH0c+EUtsRyYd/yN9O3r8QF35HyA4tdyImcL1\n/nzzleMWg8rxBqdSFc61UpxzlU5gVTNzRQdt7J2sxQKBgQDrzmqqtK9I4pRGyHFi\ngQpKKX21RMEwWNjuqZxA3aNQoAzNs3HfeTHVDFF0dQeKaxIt5EWCKzUeSZEwq+gK\ncV3VkFvfYkkk+hxxf0rZXx3p9s7TPa/Yie6XphFXT+iIn0UnW22Keb9w6OlVLlhS\nLLugE6QYZC7CqeNEaGjy3tCONQKBgQDpFILbS9rwf22JGq8e0qDda2x6n7P9O4xW\nwWXBwl6O920MyYxd04lg+ywzp+Cwk3l2mU9Q3O9p7hp3BJ+ScBaLE/+NtCC38dc9\nGwVye/+l1S9ipaEE7XtjL0iB2p3EEP1Q8Oo69QH2T8xTQmfaoT/dIsoeJuAXin98\nugw9Dszk1QKBgBhriQpiqeBvbpGiAnQEDw+9GkKieytJmDWnJQJmsZoQ6SKIWdud\nznZUzz6zO/OuwPQ1tqkTVm3riniy5NXoBaKvT4RjxlVo/XcXiqXWPt/S6npf4g0X\nw7i6vwL+yIMVk3DO/BoiH5xO0pM6uHTSIyAhyJWqElmghGO6OFwmjQydAoGBALMr\n1EfVsPENU9uASrwr+AMd0B8XY1o4C3Kpapqe2ueV5htdV+zMbx/BFUKEO6IhS87S\nnXkwzU4l/ewd/rioN3wkHGAG5tvgKbBMdEyEa4pELg/r+LJ8CEy/jUJdFsggs0ok\nWDqIG0EIKK6cLo+PQzOvyaWSBtOx4Ly1nDDXjsQdAoGASQKamB4E7ZxDCOWwmCTz\nXrZOEX4ptAvv8TtzuwH0MJyz4O7i8hcTJjeaSotOpe7Pz7H3m74Vt3oMh+4LJzjY\nOkV4q8/JGWrtGC7bycw8C93KPss+OFl8poyzraBxi+KtS3qcYdJlHXselPtVRO5H\nx1vud41mZXik+ws416ax2tk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sboportal-serviceaccount@sbosdtglp-klera.iam.gserviceaccount.com",
+  "client_id": "102731073327309612962",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sboportal-serviceaccount%40sbosdtglp-klera.iam.gserviceaccount.com"
+}

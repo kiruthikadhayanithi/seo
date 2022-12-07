@@ -1,0 +1,55 @@
+@media only screen and (max-width: 600px) {
+  .menu-block,
+  .search-block {
+    display: none;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    width: 250px;
+  }
+  .menu-icon {
+    margin: 10px 15px;
+    color: #ce0930;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .menu-block,
+  .search-block {
+    display: none;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    width: 250px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .menu-block {
+    display: none;
+  }
+  .search-block {
+    display: flex;
+  }
+  .menu-icon {
+    margin: 0px 15px;
+    color: #ce0930;
+  }
+  .menu-button {
+    display: flex;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .menu-block {
+    display: flex;
+  }
+  .menu-button {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .app-header-block {
+    width: 1225px;
+    margin: auto;
+  }
+}
